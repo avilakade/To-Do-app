@@ -1,5 +1,8 @@
 # Todo List App
 
+## Live 
+https://to-do-web-app-by-avishkarlakade.netlify.app/
+
 A simple and interactive Todo List application built with HTML, CSS, and JavaScript. This app allows users to efficiently manage their tasks by adding, editing, marking as completed, and deleting tasks. It also includes a search functionality to quickly find specific tasks.
 
 ## Features
@@ -25,7 +28,7 @@ A simple and interactive Todo List application built with HTML, CSS, and JavaScr
 
 1. Clone the repository:
     ```bash
-    
+    https://github.com/avilakade/To-Do-app.git
     ```
 
 2. Navigate to the project directory:
